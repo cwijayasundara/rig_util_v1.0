@@ -1,3 +1,5 @@
+> **Moved.** This repo is the history of the standalone plugin, now frozen. The code lives in [`brain/` of rig_v1](https://github.com/cwijayasundara/rig_v1/tree/main/brain) as the `rig-brain` plugin (same marketplace as rig; commands are `/rig-brain:*`). Open issues and PRs there.
+
 # rig-util
 
 Optional add-ons for the [rig](../claude_code_harness_lite_v2) harness. rig core does not depend on it.
